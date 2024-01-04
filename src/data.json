@@ -27,7 +27,7 @@
     "title": "interactive-rating-component",
     "stack": ["Html","TailwindCSS","React"],
     "viewCode": "https://github.com/nkunda-iyeze/interactive-rating-component",
-    "viewProj": "https://magnificent-bubblegum-266b76.netlify.app/"
+    "viewProj": ""
 
 },
 {
@@ -43,6 +43,14 @@
     "stack": ["Html","TailwindCSS","Javascript"],
     "viewCode": "https://github.com/blameleo/countries_api_app",
     "viewProj": "https://countries-api-app-sooty.vercel.app/"
+
+},
+{
+    "image": "public/images/dictionary_app.jpg",
+    "title": "dictionary-app",
+    "stack": ["Html","CSS","Javascript"],
+    "viewCode": "https://github.com/Prince0206/dictionary-app",
+    "viewProj": "https://dictionary-app-two-ashy.vercel.app/"
 
 }
 
