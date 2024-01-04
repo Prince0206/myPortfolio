@@ -2,14 +2,14 @@
     "image": "/images/port1.png",
     "title": "Devjobs",
     "stack": ["Html","TailwindCSS","React"],
-    "viewCode": "https://github.com/blameleo/devjob-app",
-    "viewProj": "https://devjobsleo.netlify.app/"
+    "viewCode": "https://github.com/Prince0206/devjob-app-Azubi",
+    "viewProj": "https://devjobs-app-azubi.vercel.app/"
 
 },
 {
-    "image": "/images/port2.png",
-    "title": "spin the bottle",
-    "stack": ["Html","TailwindCSS", "Javascript"],
+    "image": "/images/Arcade_Game.jpeg",
+    "title": "RPG Arcade Game",
+    "stack": ["Html","CSS", "Javascript"],
     "viewCode": "https://github.com/blameleo/spin-the-bottle",
     "viewProj": "https://spinthebottleklm.netlify.app/"
 
@@ -23,10 +23,10 @@
 
 },
 {
-    "image": "/images/proj4.png",
-    "title": "Calendly",
+    "image": "/images/Interactive-rating-app.jpeg",
+    "title": "interactive-rating-component",
     "stack": ["Html","TailwindCSS","React"],
-    "viewCode": "https://github.com/blameleo/codetrain/tree/calendly",
+    "viewCode": "https://github.com/nkunda-iyeze/interactive-rating-component",
     "viewProj": "https://magnificent-bubblegum-266b76.netlify.app/"
 
 },
@@ -38,11 +38,11 @@
     "viewProj": "https://tasktrackerleo.netlify.app/"
 
 },{
-    "image": "/images/proj6.png",
-    "title": "Weather App",
+    "image": "/images/desktop-design-home-light.jpg",
+    "title": "countries_api_app",
     "stack": ["Html","TailwindCSS","Javascript"],
-    "viewCode": "https://github.com/blameleo/Weather-App",
-    "viewProj": "https://hilarious-daffodil-66c1cd.netlify.app/"
+    "viewCode": "https://github.com/blameleo/countries_api_app",
+    "viewProj": "https://countries-api-app-sooty.vercel.app/"
 
 }
 

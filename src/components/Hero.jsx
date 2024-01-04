@@ -21,14 +21,14 @@ export default function Hero() {
         />
         <p className=" font-bold pt-48 sm:pt-20 sm:w-[700px]  text-center sm:text-left text-[40px] leading-10 sm:leading-[88px] sm:text-[68px] lg:text-[78px] ">
           Nice to meet you! <br />
-          I'm{" "}
+          I am{" "}
           <span className="border-b-4 inline border-b-primary-green mb-0">
-            Leonard Adjei.
+            Prince Larbi Wireko.
           </span>
         </p>
         <p className="py-5 sm:py-10 lg:py-14 sm:text-left text-center text-[16px] sm:text-[18px] text-gray-400">
-          Based in the Accra,i'm front-end developer <br />
-          passionate about building accessible web apps <br />
+          Based in Kasoa, I am a front-end developer <br />
+          passionate about building accessible and User-responsive web apps <br />
           that users love.
         </p>
 
@@ -48,7 +48,7 @@ export default function Hero() {
         />
         <img
           className="w-[174px] relative z-10  sm:h-[500px] sm:w-full"
-          src="/images/img.png"
+          src="/images/Prince.JPG"
           alt=""
         />
       </div>
