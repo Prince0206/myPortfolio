@@ -14,10 +14,13 @@ export default function Projects() {
         <h1 className="font-bold lg:text-[88px] sm:text-[72px] text-[40px]">
           Projects
         </h1>
-        <Button
-          name="CONTACT ME"
-          style="  font-bold border-b-4 pb-1 block border-b-primary-green hover:text-primary-green tracking-wider"
-        />
+        <a
+          href="https://wa.me/233266386632"
+          target="_blank"
+          className="font-bold border-b-4 pb-2 border-b-primary-green hover:text-primary-green tracking-wider" rel="noreferrer"
+        >
+          CONTACT ME
+        </a>
       </div>
 
       <div className="sm:grid   md:grid-cols-2 lg:grid-cols-3 gap-x-20 pt-10">

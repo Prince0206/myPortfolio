@@ -20,23 +20,28 @@ export default function Hero() {
           alt=""
         />
         <p className=" font-bold pt-48 sm:pt-20 sm:w-[700px]  text-center sm:text-left text-[40px] leading-10 sm:leading-[88px] sm:text-[68px] lg:text-[78px] ">
-          Nice to meet you! <br />
+          AKWAABA! <br />
           I am{" "}
           <span className="border-b-4 inline border-b-primary-green mb-0">
             Prince Larbi Wireko.
           </span>
         </p>
         <p className="py-5 sm:py-10 lg:py-14 sm:text-left text-center text-[16px] sm:text-[18px] text-gray-400">
-          Based in Kasoa, I am a front-end developer <br />
-          passionate about building accessible and User-responsive web apps <br />
+          Based in Accra, I am a front-end developer. <br />
+          I am passionate about building accessible and User-responsive web apps <br />
           that users love.
         </p>
 
         <div className="w-full flex justify-center sm:block">
-          <Button
-            name="CONTACT ME"
-            style="font-bold border-b-4 pb-2 border-b-primary-green hover:text-primary-green tracking-wider"
-          />
+
+        <a
+          href="https://wa.me/233266386632"
+          target="_blank"
+          className="font-bold border-b-4 pb-2 border-b-primary-green hover:text-primary-green tracking-wider" rel="noreferrer"
+        >
+          CONTACT ME
+        </a>
+
         </div>
       </div>
 

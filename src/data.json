@@ -10,7 +10,7 @@
     "image": "/images/Arcade_Game.jpeg",
     "title": "RPG Arcade Game",
     "stack": ["Html","CSS", "Javascript"],
-    "viewCode": "https://github.com/blameleo/spin-the-bottle",
+    "viewCode": "https://github.com/Prince0206/Arcade-Game",
     "viewProj": "https://spinthebottleklm.netlify.app/"
 
 },
@@ -18,7 +18,7 @@
     "image": "/images/proj3.png",
     "title": "Azubi e-commerce",
     "stack": ["Html","TailwindCSS","React"],
-    "viewCode": "https://github.com/blameleo/miniE-commerce-App",
+    "viewCode": "https://github.com/Prince0206/miniE-commerce-App",
     "viewProj": "https://keen-kataifi-67e6d7.netlify.app/"
 
 },
@@ -26,22 +26,23 @@
     "image": "/images/Interactive-rating-app.jpeg",
     "title": "interactive-rating-component",
     "stack": ["Html","TailwindCSS","React"],
-    "viewCode": "https://github.com/nkunda-iyeze/interactive-rating-component",
-    "viewProj": ""
+    "viewCode": "https://github.com/Prince0206/interactive-rating-component"
+    
 
 },
 {
     "image": "/images/proj5.png",
     "title": "Task tracker",
-    "stack": ["Html","TailwindCSS","React"],
-    "viewCode": "https://github.com/blameleo/task-tracker",
+    "stack": ["Html","TailwindCSS","JavaScript"],
+    "viewCode": "https://github.com/Prince0206/task-tracker",
     "viewProj": "https://tasktrackerleo.netlify.app/"
 
-},{
+},
+{
     "image": "/images/desktop-design-home-light.jpg",
     "title": "countries_api_app",
     "stack": ["Html","TailwindCSS","Javascript"],
-    "viewCode": "https://github.com/blameleo/countries_api_app",
+    "viewCode": "https://github.com/Prince0206/countries_api_app",
     "viewProj": "https://countries-api-app-sooty.vercel.app/"
 
 },
@@ -52,6 +53,117 @@
     "viewCode": "https://github.com/Prince0206/dictionary-app",
     "viewProj": "https://dictionary-app-two-ashy.vercel.app/"
 
-}
+},
+{
+    "image": "public/images/image-slider.png",
+    "title": "Image-Slider-app ",
+    "stack": ["Html","CSS","Javascript"],
+    "viewCode": "https://github.com/Prince0206/Image-Slider-app",
+    "viewProj": "https://image-slider-app-bay.vercel.app/"
 
+},
+{
+    "image": "public/images/To-do-Listapp.png",
+    "title": "To-do-list-application",
+    "stack": ["Html","CSS","Javascript"],
+    "viewCode": "https://github.com/Prince0206/To-do-list-application",
+    "viewProj": "https://to-do-list-application-ten-sage.vercel.app/"
+
+},
+{
+    "image": "public/images/Blogwebsite.jpg",
+    "title": "Blog-Website ",
+    "stack": ["Html","CSS","Javascript","EJS"],
+    "viewCode": "https://github.com/Prince0206/Blog-Website"
+    
+
+},
+{
+    "image": "public/images/Registration-Form.jpg",
+    "title": "Registration Form ",
+    "stack": ["Html","CSS","Javascript"],
+    "viewCode": "https://github.com/Prince0206/Registration-form-to-sign-up-and-store-data-using-HTML-Node.js-and-MongoDB",
+    "viewProj": "https://registration-form-to-sign-up-and-store-dat-prince0206s-projects.vercel.app/"
+
+},
+{
+    "image": "public/images/My-Hobbies.jpg",
+    "title": "My Hobbies",
+    "stack": ["Html","CSS","Javascript"],
+    "viewCode": "https://github.com/Prince0206/My-hobbies",
+    "viewProj": "prince0206.github.io/My-hobbies/"
+
+},
+{
+    "image": "public/images/SocialWebsite.png",
+    "title": "Social Media Website (SMW.app)",
+    "stack": ["Html","CSS","Javascript"],
+    "viewCode": "https://github.com/Prince0206/Social-Media-website",
+    "viewProj": "https://social-media-website-wheat.vercel.app/"
+
+},
+{
+    "image": "public/images/NetFlixClone.png",
+    "title": "Netflix MovieHub Clone",
+    "stack": ["Html","CSS","Javascript"],
+    "viewCode": "https://github.com/Prince0206/Netflix-Clone",
+    "viewProj": "https://netflix-clone-eta-jade-12.vercel.app/"
+
+},
+{
+    "image": "public/images/CitizenWebsite.png",
+    "title": "Citizen Website",
+    "stack": ["Html","CSS"],
+    "viewCode": "https://github.com/Prince0206/Citizen-Website"
+    
+
+},
+{
+    "image": "public/images/GameWebsite.png",
+    "title": "Xbox Game Website",
+    "stack": ["Html","CSS","SCSS"],
+    "viewCode": "https://github.com/Prince0206/Game-Website"
+    
+
+},
+{
+    "image": "public/images/Photogallery.png",
+    "title": "School Photgallery Website",
+    "stack": ["Html","CSS","JavaScript"],
+    "viewCode": "https://github.com/Prince0206/Photogallery",
+    "viewProj": "https://photogallery-henna.vercel.app/"
+
+},
+{
+    "image": "public/images/Weather.png",
+    "title": "Weather App",
+    "stack": ["Html","CSS","JavaScript"],
+    "viewCode": "https://github.com/Prince0206/Weather-App",
+    "viewProj": "https://weather-app-mocha-six-91.vercel.app/"
+
+},
+{
+    "image": "public/images/MusicPlayerProj.png",
+    "title": "CharmPlayerGH Music website App",
+    "stack": ["Html","CSS","JavaScript"],
+    "viewCode": "https://github.com/Prince0206/Musice-Player-Website"
+    
+
+},
+{
+    "image": "public/images/currencyconvertor.png",
+    "title": "Currency Convertor App",
+    "stack": ["Html","CSS","JavaScript", "SCSS"],
+    "viewCode": "https://github.com/Prince0206/Currency-Converter",
+    "viewProj": "https://currency-converter-sepia-tau.vercel.app/"
+
+},
+{
+    "image": "public/images/Chatbotapp.png",
+    "title": "ChatBot-app App",
+    "stack": ["Html","CSS","JavaScript"],
+    "viewCode": "https://github.com/Prince0206/Currency-Converter"
+    
+
+}
 ]
