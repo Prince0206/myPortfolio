@@ -151,7 +151,7 @@
 
 },
 {
-    "image": "/images/currencyconvertor.png",
+    "image": "/images/Currencyconvertor.png",
     "title": "Currency Convertor App",
     "stack": ["Html","CSS","JavaScript", "SCSS"],
     "viewCode": "https://github.com/Prince0206/Currency-Converter",
