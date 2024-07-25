@@ -47,7 +47,7 @@
 
 },
 {
-    "image": "public/images/dictionary_app.jpg",
+    "image": "/images/dictionary_app.jpg",
     "title": "dictionary-app",
     "stack": ["Html","CSS","Javascript"],
     "viewCode": "https://github.com/Prince0206/dictionary-app",
@@ -55,7 +55,7 @@
 
 },
 {
-    "image": "public/images/image-slider.png",
+    "image": "/images/image-slider.png",
     "title": "Image-Slider-app ",
     "stack": ["Html","CSS","Javascript"],
     "viewCode": "https://github.com/Prince0206/Image-Slider-app",
@@ -63,7 +63,7 @@
 
 },
 {
-    "image": "public/images/To-do-Listapp.png",
+    "image": "/images/To-do-Listapp.png",
     "title": "To-do-list-application",
     "stack": ["Html","CSS","Javascript"],
     "viewCode": "https://github.com/Prince0206/To-do-list-application",
@@ -71,7 +71,7 @@
 
 },
 {
-    "image": "public/images/Blogwebsite.jpg",
+    "image": "/images/Blogwebsite.jpg",
     "title": "Blog-Website ",
     "stack": ["Html","CSS","Javascript","EJS"],
     "viewCode": "https://github.com/Prince0206/Blog-Website"
@@ -79,7 +79,7 @@
 
 },
 {
-    "image": "public/images/Registration-Form.jpg",
+    "image": "/images/Registration-Form.jpg",
     "title": "Registration Form ",
     "stack": ["Html","CSS","Javascript"],
     "viewCode": "https://github.com/Prince0206/Registration-form-to-sign-up-and-store-data-using-HTML-Node.js-and-MongoDB",
@@ -87,7 +87,7 @@
 
 },
 {
-    "image": "public/images/My-Hobbies.jpg",
+    "image": "/images/My-Hobbies.jpg",
     "title": "My Hobbies",
     "stack": ["Html","CSS","Javascript"],
     "viewCode": "https://github.com/Prince0206/My-hobbies",
@@ -95,7 +95,7 @@
 
 },
 {
-    "image": "public/images/SocialWebsite.png",
+    "image": "/images/SocialWebsite.png",
     "title": "Social Media Website (SMW.app)",
     "stack": ["Html","CSS","Javascript"],
     "viewCode": "https://github.com/Prince0206/Social-Media-website",
@@ -103,7 +103,7 @@
 
 },
 {
-    "image": "public/images/NetFlixClone.png",
+    "image": "/images/NetFlixClone.png",
     "title": "Netflix MovieHub Clone",
     "stack": ["Html","CSS","Javascript"],
     "viewCode": "https://github.com/Prince0206/Netflix-Clone",
@@ -111,7 +111,7 @@
 
 },
 {
-    "image": "public/images/CitizenWebsite.png",
+    "image": "/images/CitizenWebsite.png",
     "title": "Citizen Website",
     "stack": ["Html","CSS"],
     "viewCode": "https://github.com/Prince0206/Citizen-Website"
@@ -119,7 +119,7 @@
 
 },
 {
-    "image": "public/images/GameWebsite.png",
+    "image": "/images/GameWebsite.png",
     "title": "Xbox Game Website",
     "stack": ["Html","CSS","SCSS"],
     "viewCode": "https://github.com/Prince0206/Game-Website"
@@ -127,7 +127,7 @@
 
 },
 {
-    "image": "public/images/Photogallery.png",
+    "image": "/images/Photogallery.png",
     "title": "School Photgallery Website",
     "stack": ["Html","CSS","JavaScript"],
     "viewCode": "https://github.com/Prince0206/Photogallery",
@@ -135,7 +135,7 @@
 
 },
 {
-    "image": "public/images/Weather.png",
+    "image": "/images/Weather.png",
     "title": "Weather App",
     "stack": ["Html","CSS","JavaScript"],
     "viewCode": "https://github.com/Prince0206/Weather-App",
@@ -143,7 +143,7 @@
 
 },
 {
-    "image": "public/images/MusicPlayerProj.png",
+    "image": "/images/MusicPlayerProj.png",
     "title": "CharmPlayerGH Music website App",
     "stack": ["Html","CSS","JavaScript"],
     "viewCode": "https://github.com/Prince0206/Musice-Player-Website"
@@ -151,7 +151,7 @@
 
 },
 {
-    "image": "public/images/currencyconvertor.png",
+    "image": "/images/currencyconvertor.png",
     "title": "Currency Convertor App",
     "stack": ["Html","CSS","JavaScript", "SCSS"],
     "viewCode": "https://github.com/Prince0206/Currency-Converter",
@@ -159,7 +159,7 @@
 
 },
 {
-    "image": "public/images/Chatbotapp.png",
+    "image": "/images/Chatbotapp.png",
     "title": "ChatBot-app App",
     "stack": ["Html","CSS","JavaScript"],
     "viewCode": "https://github.com/Prince0206/Currency-Converter"
