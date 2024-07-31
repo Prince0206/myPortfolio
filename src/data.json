@@ -164,6 +164,19 @@
     "stack": ["Html","CSS","JavaScript"],
     "viewCode": "https://github.com/Prince0206/Currency-Converter"
     
-
+},
+{
+    "image": "/images/E-commence-product-page.png",
+    "title": "E-commence Product Page",
+    "stack": ["Html","CSS","JavaScript"],
+    "viewCode": "https://e-commerce-product-page-html-css-javascript.vercel.app/"
+    
+},
+{
+    "image": "/images/Food-receipt.png",
+    "title": "Food Finder-app App",
+    "stack": ["Html","CSS","JavaScript"],
+    "viewCode": "https://food-recipe-app-lemon.vercel.app/"
+    
 }
 ]
