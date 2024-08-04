@@ -178,5 +178,26 @@
     "stack": ["Html","CSS","JavaScript"],
     "viewCode": "https://food-recipe-app-lemon.vercel.app/"
     
+},
+{
+    "image": "/images/ImageSlider.png",
+    "title": "Country Catalog Slider WebApp",
+    "stack": ["Html","CSS","JavaScript"],
+    "viewCode": "https://new-image-slider-gamma.vercel.app/"
+    
+},
+{
+    "image": "/images/BlueTummy.png",
+    "title": "BlueTummy Cuisine Online Meal Restaurant",
+    "stack": ["Html","CSS","JavaScript"],
+    "viewCode": "https://responsive-dash-board-design.vercel.app/#"
+    
+},
+{
+    "image": "/images/ApiMaps.png",
+    "title": "My Google Api MAp",
+    "stack": ["Html","CSS","JavaScript"],
+    "viewCode": "https://google-api-map.vercel.app/"
+    
 }
 ]
