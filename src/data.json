@@ -162,42 +162,58 @@
     "image": "/images/Chatbotapp.png",
     "title": "ChatBot-app App",
     "stack": ["Html","CSS","JavaScript"],
-    "viewCode": "https://github.com/Prince0206/Currency-Converter"
+    "viewProj": "https://github.com/Prince0206/Currency-Converter"
     
 },
 {
     "image": "/images/E-commence-product-page.png",
     "title": "E-commence Product Page",
     "stack": ["Html","CSS","JavaScript"],
-    "viewCode": "https://e-commerce-product-page-html-css-javascript.vercel.app/"
+    "viewProj": "https://e-commerce-product-page-html-css-javascript.vercel.app/"
     
 },
 {
     "image": "/images/Food-receipt.png",
     "title": "Food Finder-app App",
     "stack": ["Html","CSS","JavaScript"],
-    "viewCode": "https://food-recipe-app-lemon.vercel.app/"
+    "viewProj": "https://food-recipe-app-lemon.vercel.app/"
     
 },
 {
     "image": "/images/ImageSlider.png",
     "title": "Country Catalog Slider WebApp",
     "stack": ["Html","CSS","JavaScript"],
-    "viewCode": "https://new-image-slider-gamma.vercel.app/"
+    "viewProj": "https://new-image-slider-gamma.vercel.app/"
     
 },
 {
     "image": "/images/BlueTummy.png",
     "title": "BlueTummy Cuisine Online Meal Restaurant",
     "stack": ["Html","CSS","JavaScript"],
-    "viewCode": "https://responsive-dash-board-design.vercel.app/#"
+    "viewProj": "https://responsive-dash-board-design.vercel.app/"
     
 },
 {
     "image": "/images/ApiMaps.png",
     "title": "My Google Api MAp",
     "stack": ["Html","CSS","JavaScript"],
-    "viewCode": "https://google-api-map.vercel.app/"
+    "viewProj": "https://google-api-map.vercel.app/"
+    
+},
+{
+    "image": "/images/Login-Register-page.png",
+    "title": "Login/Register page",
+    "stack": ["React","CSS","JavaScript","Vite"],
+    "viewCode": "https://github.com/Prince0206/Login-Form-in-ReactJS",
+    "viewProj": "https://login-form-in-react-js.vercel.app/"
+    
+},
+{
+    "image": "/images/ExpenseTracker.png",
+    "title": "Expense Tracker page",
+    "stack": ["Html","CSS","JavaScript","MongoDb","Node.js"],
+    "viewCode": "https://github.com/Prince0206/Money-Tracker-App",
+    "viewProj": "https://money-tracker-app-eight.vercel.app/"
     
 }
 ]
