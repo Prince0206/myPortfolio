@@ -215,5 +215,14 @@
     "viewCode": "https://github.com/Prince0206/Money-Tracker-App",
     "viewProj": "https://money-tracker-app-eight.vercel.app/"
     
+},
+{
+    "image": "/images/CognifyzInternship.jpg",
+    "title": "Landing Page for Cognifyz internship",
+    "stack": ["Html","CSS","JavaScript","Bootstrap","Bulma"],
+    "viewCode": "https://github.com/Prince0206/Web-development-Level3-TASK02-",
+    "viewProj": "https://web-development-level3-task-02.vercel.app/"
+    
 }
+
 ]
