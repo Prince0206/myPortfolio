@@ -47,12 +47,12 @@ export default function Hero() {
 
       <div className="  bg-secondary-dark absolute  sm:right-0  lg:right-40 top-0  pt-32 ">
         <img
-          className=" absolute z-30 -right-36 bottom-0 sm:bottom-0 sm:-right-20 lg:bottom-20 lg:-left-16"
+          className=" absolute z-30 -right-24 bottom-0 sm:bottom-0 sm:-right-20 lg:bottom-20 lg:-left-16"
           src="/images/Oval.png"
           alt=""
         />
         <img
-          className="w-[174px] relative z-10  sm:h-[500px] sm:w-full"
+          className="w-[174px]   sm:h-[500px] sm:w-full"
           src="/images/Prince.JPG"
           alt=""
         />

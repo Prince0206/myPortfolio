@@ -1,259 +1,222 @@
-[{
+[
+  {
     "image": "/images/port1.png",
     "title": "Devjobs",
-    "stack": ["Html","TailwindCSS","React"],
+    "stack": ["Html", "TailwindCSS", "React"],
     "viewCode": "https://github.com/Prince0206/devjob-app-Azubi",
     "viewProj": "https://devjobs-app-azubi.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/Arcade_Game.jpeg",
     "title": "RPG Arcade Game",
-    "stack": ["Html","CSS", "Javascript"],
+    "stack": ["Html", "CSS", "Javascript"],
     "viewCode": "https://github.com/Prince0206/Arcade-Game",
     "viewProj": "https://spinthebottleklm.netlify.app/"
-
-},
-{
+  },
+  {
     "image": "/images/proj3.png",
     "title": "Azubi e-commerce",
-    "stack": ["Html","TailwindCSS","React"],
+    "stack": ["Html", "TailwindCSS", "React"],
     "viewCode": "https://github.com/Prince0206/miniE-commerce-App",
     "viewProj": "https://keen-kataifi-67e6d7.netlify.app/"
-
-},
-{
+  },
+  {
     "image": "/images/Interactive-rating-app.jpeg",
     "title": "interactive-rating-component",
-    "stack": ["Html","TailwindCSS","React"],
+    "stack": ["Html", "TailwindCSS", "React"],
     "viewCode": "https://github.com/Prince0206/interactive-rating-component"
-    
-
-},
-{
+  },
+  {
     "image": "/images/proj5.png",
     "title": "Task tracker",
-    "stack": ["Html","TailwindCSS","JavaScript"],
+    "stack": ["Html", "TailwindCSS", "JavaScript"],
     "viewCode": "https://github.com/Prince0206/task-tracker",
     "viewProj": "https://tasktrackerleo.netlify.app/"
-
-},
-{
+  },
+  {
     "image": "/images/desktop-design-home-light.jpg",
     "title": "countries_api_app",
-    "stack": ["Html","TailwindCSS","Javascript"],
+    "stack": ["Html", "TailwindCSS", "Javascript"],
     "viewCode": "https://github.com/Prince0206/countries_api_app",
     "viewProj": "https://countries-api-app-sooty.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/dictionary_app.jpg",
     "title": "dictionary-app",
-    "stack": ["Html","CSS","Javascript"],
+    "stack": ["Html", "CSS", "Javascript"],
     "viewCode": "https://github.com/Prince0206/dictionary-app",
     "viewProj": "https://dictionary-app-two-ashy.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/image-slider.png",
     "title": "Image-Slider-app ",
-    "stack": ["Html","CSS","Javascript"],
+    "stack": ["Html", "CSS", "Javascript"],
     "viewCode": "https://github.com/Prince0206/Image-Slider-app",
     "viewProj": "https://image-slider-app-bay.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/To-do-Listapp.png",
     "title": "To-do-list-application",
-    "stack": ["Html","CSS","Javascript"],
+    "stack": ["Html", "CSS", "Javascript"],
     "viewCode": "https://github.com/Prince0206/To-do-list-application",
     "viewProj": "https://to-do-list-application-ten-sage.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/Blogwebsite.jpg",
     "title": "Blog-Website ",
-    "stack": ["Html","CSS","Javascript","EJS"],
+    "stack": ["Html", "CSS", "Javascript", "EJS"],
     "viewCode": "https://github.com/Prince0206/Blog-Website"
-    
-
-},
-{
+  },
+  {
     "image": "/images/Registration-Form.jpg",
     "title": "Registration Form ",
-    "stack": ["Html","CSS","Javascript"],
+    "stack": ["Html", "CSS", "Javascript"],
     "viewCode": "https://github.com/Prince0206/Registration-form-to-sign-up-and-store-data-using-HTML-Node.js-and-MongoDB",
     "viewProj": "https://registration-form-to-sign-up-and-store-dat-prince0206s-projects.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/My-Hobbies.jpg",
     "title": "My Hobbies",
-    "stack": ["Html","CSS","Javascript"],
+    "stack": ["Html", "CSS", "Javascript"],
     "viewCode": "https://github.com/Prince0206/My-hobbies",
     "viewProj": "prince0206.github.io/My-hobbies/"
-
-},
-{
+  },
+  {
     "image": "/images/SocialWebsite.png",
     "title": "Social Media Website (SMW.app)",
-    "stack": ["Html","CSS","Javascript"],
+    "stack": ["Html", "CSS", "Javascript"],
     "viewCode": "https://github.com/Prince0206/Social-Media-website",
     "viewProj": "https://social-media-website-wheat.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/NetFlixClone.png",
     "title": "Netflix MovieHub Clone",
-    "stack": ["Html","CSS","Javascript"],
+    "stack": ["Html", "CSS", "Javascript"],
     "viewCode": "https://github.com/Prince0206/Netflix-Clone",
     "viewProj": "https://netflix-clone-eta-jade-12.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/CitizenWebsite.png",
     "title": "Citizen Website",
-    "stack": ["Html","CSS"],
+    "stack": ["Html", "CSS"],
     "viewCode": "https://github.com/Prince0206/Citizen-Website"
-    
-
-},
-{
+  },
+  {
     "image": "/images/GameWebsite.png",
     "title": "Xbox Game Website",
-    "stack": ["Html","CSS","SCSS"],
+    "stack": ["Html", "CSS", "SCSS"],
     "viewCode": "https://github.com/Prince0206/Game-Website"
-    
-
-},
-{
+  },
+  {
     "image": "/images/Photogallery.png",
     "title": "School Photgallery Website",
-    "stack": ["Html","CSS","JavaScript"],
+    "stack": ["Html", "CSS", "JavaScript"],
     "viewCode": "https://github.com/Prince0206/Photogallery",
     "viewProj": "https://photogallery-henna.vercel.app/"
-
-},
-{
-    "image": "/images/Weather(react).png",
+  },
+  {
+    "image": "/images/Weather-react.png",
     "title": "Weather App",
-    "stack": ["Html","CSS","JavaScript"],
+    "stack": ["Html", "CSS", "JavaScript"],
     "viewCode": "https://github.com/Prince0206/Weather-App",
     "viewProj": "https://weather-app-mocha-six-91.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/MusicPlayerProj.png",
     "title": "CharmPlayerGH Music website App",
-    "stack": ["Html","CSS","JavaScript"],
+    "stack": ["Html", "CSS", "JavaScript"],
     "viewCode": "https://github.com/Prince0206/Musice-Player-Website"
-    
-
-},
-{
+  },
+  {
     "image": "/images/Currencyconvertor.png",
     "title": "Currency Convertor App",
-    "stack": ["Html","CSS","JavaScript", "SCSS"],
+    "stack": ["Html", "CSS", "JavaScript", "SCSS"],
     "viewCode": "https://github.com/Prince0206/Currency-Converter",
     "viewProj": "https://currency-converter-sepia-tau.vercel.app/"
-
-},
-{
+  },
+  {
     "image": "/images/Chatbotapp.png",
     "title": "ChatBot-app App",
-    "stack": ["Html","CSS","JavaScript"],
+    "stack": ["Html", "CSS", "JavaScript"],
     "viewProj": "https://github.com/Prince0206/Currency-Converter"
-    
-},
-{
+  },
+  {
     "image": "/images/E-commence-product-page.png",
     "title": "E-commence Product Page",
-    "stack": ["Html","CSS","JavaScript"],
+    "stack": ["Html", "CSS", "JavaScript"],
     "viewProj": "https://e-commerce-product-page-html-css-javascript.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/Food-receipt.png",
     "title": "Food Finder-app App",
-    "stack": ["Html","CSS","JavaScript"],
+    "stack": ["Html", "CSS", "JavaScript"],
     "viewProj": "https://food-recipe-app-lemon.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/ImageSlider.png",
     "title": "Country Catalog Slider WebApp",
-    "stack": ["Html","CSS","JavaScript"],
+    "stack": ["Html", "CSS", "JavaScript"],
     "viewProj": "https://new-image-slider-gamma.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/BlueTummy.png",
     "title": "BlueTummy Cuisine Online Meal Restaurant",
-    "stack": ["Html","CSS","JavaScript"],
+    "stack": ["Html", "CSS", "JavaScript"],
     "viewProj": "https://responsive-dash-board-design.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/ApiMaps.png",
     "title": "My Google Api MAp",
-    "stack": ["Html","CSS","JavaScript"],
+    "stack": ["Html", "CSS", "JavaScript"],
     "viewProj": "https://google-api-map.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/userRegistration.png",
     "title": "Login/ UserRegister page",
-    "stack": ["React","CSS","JavaScript","Vite"],
+    "stack": ["React", "CSS", "JavaScript", "Vite"],
     "viewCode": "https://github.com/Prince0206/User-Registration-React-",
     "viewProj": "https://login-form-in-react-js.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/ExpenseTracker.png",
     "title": "Expense Tracker page",
-    "stack": ["Html","CSS","JavaScript","MongoDb","Node.js"],
+    "stack": ["Html", "CSS", "JavaScript", "MongoDb", "Node.js"],
     "viewCode": "https://github.com/Prince0206/Money-Tracker-App",
     "viewProj": "https://money-tracker-app-eight.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/CognifyzInternship.jpg",
     "title": "Landing Page for Cognifyz internship",
-    "stack": ["Html","CSS","JavaScript","Bootstrap","Bulma"],
+    "stack": ["Html", "CSS", "JavaScript", "Bootstrap", "Bulma"],
     "viewCode": "https://github.com/Prince0206/Web-development-Level3-TASK02-",
     "viewProj": "https://web-development-level3-task-02.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/UnityChatApp.jpg",
     "title": "UnityChat (chatroom App)",
-    "stack": ["Html","CSS","JavaScript","React","TailwindCSS"],
+    "stack": ["Html", "CSS", "JavaScript", "React", "TailwindCSS", "firebase", "MongoDb"],
     "viewCode": "https://github.com/Prince0206/ChatRoom.app-React.js-",
     "viewProj": ""
-    
-},
-{
+  },
+  {
     "image": "/images/QuizApp.png",
     "title": "Quiz web App",
-    "stack": ["Html","CSS","JavaScript","React"],
+    "stack": ["Html", "CSS", "JavaScript", "React"],
     "viewCode": "https://github.com/Prince0206/QuizApp-React-",
     "viewProj": "https://quiz-app-react-kfh1.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/DrawingApp.png",
     "title": "Drawing-Paint App",
-    "stack": ["Html","CSS","JavaScript","React"],
+    "stack": ["Html", "CSS", "JavaScript", "React"],
     "viewCode": "https://github.com/Prince0206/Drawing-Paint-App",
     "viewProj": "https://drawing-paint-app-two.vercel.app/"
-    
-},
-{
+  },
+  {
     "image": "/images/PinterestClone.png",
     "title": "Pinterst Clone App",
-    "stack": ["Html","CSS","JavaScript","React","TailwindCSS"],
+    "stack": ["Html", "CSS", "JavaScript", "React", "TailwindCSS", "MongoDb"],
     "viewCode": "https://github.com/Prince0206/PinIterestClone-MERN-stack-",
     "viewProj": "https://pin-iterest-clone-mern-stack.vercel.app/"
-    
-},
+  }
 ]
