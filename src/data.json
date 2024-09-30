@@ -135,7 +135,7 @@
 
 },
 {
-    "image": "/images/Weather.png",
+    "image": "/images/Weather(react).png",
     "title": "Weather App",
     "stack": ["Html","CSS","JavaScript"],
     "viewCode": "https://github.com/Prince0206/Weather-App",
@@ -201,10 +201,10 @@
     
 },
 {
-    "image": "/images/Login-Register-page.png",
-    "title": "Login/Register page",
+    "image": "/images/userRegistration.png",
+    "title": "Login/ UserRegister page",
     "stack": ["React","CSS","JavaScript","Vite"],
-    "viewCode": "https://github.com/Prince0206/Login-Form-in-ReactJS",
+    "viewCode": "https://github.com/Prince0206/User-Registration-React-",
     "viewProj": "https://login-form-in-react-js.vercel.app/"
     
 },
@@ -223,5 +223,37 @@
     "viewCode": "https://github.com/Prince0206/Web-development-Level3-TASK02-",
     "viewProj": "https://web-development-level3-task-02.vercel.app/"
     
-}
+},
+{
+    "image": "/images/UnityChatApp.jpg",
+    "title": "UnityChat (chatroom App)",
+    "stack": ["Html","CSS","JavaScript","React","TailwindCSS"],
+    "viewCode": "https://github.com/Prince0206/ChatRoom.app-React.js-",
+    "viewProj": ""
+    
+},
+{
+    "image": "/images/QuizApp.png",
+    "title": "Quiz web App",
+    "stack": ["Html","CSS","JavaScript","React"],
+    "viewCode": "https://github.com/Prince0206/QuizApp-React-",
+    "viewProj": "https://quiz-app-react-kfh1.vercel.app/"
+    
+},
+{
+    "image": "/images/DrawingApp.png",
+    "title": "Drawing-Paint App",
+    "stack": ["Html","CSS","JavaScript","React"],
+    "viewCode": "https://github.com/Prince0206/Drawing-Paint-App",
+    "viewProj": "https://drawing-paint-app-two.vercel.app/"
+    
+},
+{
+    "image": "/images/PinterestClone.png",
+    "title": "Pinterst Clone App",
+    "stack": ["Html","CSS","JavaScript","React","TailwindCSS"],
+    "viewCode": "https://github.com/Prince0206/PinIterestClone-MERN-stack-",
+    "viewProj": "https://pin-iterest-clone-mern-stack.vercel.app/"
+    
+},
 ]

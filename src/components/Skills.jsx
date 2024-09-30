@@ -52,7 +52,7 @@ export default function Skills() {
           <h1 className="font-bold text-[32px] sm:text-[48px]">REACT</h1>
           <DiReact className="text-4xl ml-2 text-primary-green" />
         </div>
-        <p className="text-center sm:text-left">1 Year Experience</p>
+        <p className="text-center sm:text-left">2 Year Experience</p>
       </div>
       
       <div data-aos="zoom-in" data-aos-delay="900">
@@ -61,7 +61,7 @@ export default function Skills() {
           <h1 className="font-bold text-[32px] sm:text-[48px]">TAILWINDCSS</h1>
           <SiTailwindcss className="text-4xl ml-2 text-primary-green"/>
         </div>
-        <p className="text-center sm:text-left">1 Year Experience</p>
+        <p className="text-center sm:text-left">2 Year Experience</p>
       </div>
       <img
         className=" absolute -right-6 bottom-[20px] md:-right-10 md:-bottom-[30px] lg:-right-40 lg:-bottom-10"
