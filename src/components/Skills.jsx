@@ -29,7 +29,7 @@ export default function Skills() {
           <DiHtml5 className="text-4xl ml-2 text-primary-green" />
         </div>
 
-        <p className="text-center sm:text-left">2 Years Experience</p>
+        <p className="text-center sm:text-left">{/* 2 Years Experience */}</p>
       </div>
       <div data-aos="zoom-in" data-aos-delay="500">
         <div className="flex items-center">
